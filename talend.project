@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_lg-9UZabEeaEV7RNT_k7aQ" label="Magicoach" description="" language="java" technicalLabel="MAGICOACH" local="true" author="_lieyIJabEeaEV7RNT_k7aQ" productVersion="Talend Open Studio for ESB-7.1.1.20181026_1147" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_tOy3NzX2EemveuJInzCBHQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_lieyIJabEeaEV7RNT_k7aQ" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
